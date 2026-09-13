@@ -26,15 +26,3 @@ permalink: /publications-talks/
 ## Writing
 
 - "Using AI to Generate Insights and Actionable Next Steps from MMM Data," 021 Newsletter, January 27, 2026
-
-## Peer Review
-
-Peer reviewer (10 reviews recorded via ORCID's peer-review integration): JMIR (7), JMIR AI (1), Big Data Research (1), Journal of Open Source Software (1).
-
-Additional reviewing activity logged as works:
-- INFORMS Data Science Workshop 2026: 2 submission reviews
-- pyOpenSci: nsEVDx, C4DYNAMICS, Astropy
-- Journal of Open Source Software: TDAvec
-- Advances in Artificial Intelligence and Machine Learning: "Green Artificial Intelligence" review
-
-<!-- TODO: re-verify this full list against live ORCID before publishing; source: ORCID print view dated 2026-09-13. -->

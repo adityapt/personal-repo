@@ -13,4 +13,4 @@ permalink: /service/
 
 ## Peer Review
 
-See [Publications & Talks](/publications-talks/) for reviewing activity.
+Reviewer for JMIR, JMIR AI, Big Data Research, and Journal of Open Source Software.
