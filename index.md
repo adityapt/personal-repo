@@ -17,8 +17,8 @@ Principal Data Scientist providing technical and strategic leadership for market
     <span class="tag">Working Paper, AI & Decision Systems</span>
   </li>
   <li>
-    <a href="/talks-service/#conference-presentations">INFORMS Annual Meeting</a>
-    <span class="tag">Conference Presentation, 2026</span>
+    <a href="/talks-service/#invited-talks">INFORMS Annual Meeting</a>
+    <span class="tag">Invited Talk, 2026</span>
   </li>
   <li>
     <a href="/talks-service/#conference-presentations">INFORMS Regional Analytics Conference</a>
