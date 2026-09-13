@@ -13,5 +13,5 @@ Attribution, budget allocation, response curves, decision support for marketing 
 ## AI & Decision Systems
 LLM-assisted analytics, agentic AI for measurement, decision delegation in marketing measurement. See "The AI Delegation Blind Spot" under [Working Papers](/publications/#working-papers).
 
-## Predictive Product & Marketing Data Science
+## Predictive Brand, Product & Marketing Data Science
 Synthetic data evaluation, rare-event prediction.

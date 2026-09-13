@@ -26,7 +26,7 @@ He holds a Master's degree in Business Analytics and conducts independent resear
 
 ## Research interests
 
-See [Research](/research/) for the full breakdown: causal measurement and experimentation, marketing measurement and optimization, AI and decision systems, and predictive product and marketing data science.
+See [Research](/research/) for the full breakdown: causal measurement and experimentation, marketing measurement and optimization, AI and decision systems, and predictive brand, product, and marketing data science.
 
 ## Elsewhere
 
