@@ -3,7 +3,7 @@ layout: home
 title: Aditya Puttaparthi Tirumala
 ---
 
-Principal Data Scientist providing technical and strategic leadership for marketing measurement and decision science, building and scaling enterprise capabilities across marketing mix modeling, causal inference, experimentation, optimization, and applied AI, with [DeepCausalMMM](/deepcausalmmm/) as the flagship research and open-source contribution.
+Aditya leads marketing measurement and decision science at Zillow, setting the technical and strategic direction behind how the company measures and invests in marketing. He owns the enterprise capabilities spanning marketing mix modeling, causal inference, experimentation, optimization, and applied AI, with [DeepCausalMMM](/deepcausalmmm/) as his flagship research and open-source contribution.
 
 ## Selected work
 
