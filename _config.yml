@@ -1,0 +1,16 @@
+title: Aditya Puttaparthi Tirumala
+description: Principal Data Scientist — Product & Marketing Data Science
+url: "https://adityaputtaparthitirumala.com"
+theme: minima
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+header_pages:
+  - research.md
+  - open-source.md
+  - publications-talks.md
+  - service.md
+  - contact.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
