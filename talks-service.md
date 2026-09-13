@@ -26,3 +26,7 @@ permalink: /talks-service/
 Reviewer for: JMIR, JMIR AI, Big Data Research, Journal of Open Source Software, pyOpenSci, INFORMS Workshop on Data Science, Advances in Artificial Intelligence and Machine Learning.
 
 [View verified peer-review activity on ORCID](https://orcid.org/0009-0008-9495-3932)
+
+## Writing
+
+- "Using AI to Generate Insights and Actionable Next Steps from MMM Data," 021 Newsletter, January 27, 2026

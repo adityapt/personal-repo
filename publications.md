@@ -25,7 +25,3 @@ permalink: /publications/
 ## Software
 
 - [DeepCausalMMM](/deepcausalmmm/): a Deep Learning framework for Marketing Mix Modeling with causal structure learning.
-
-## Writing
-
-- "Using AI to Generate Insights and Actionable Next Steps from MMM Data," 021 Newsletter, January 27, 2026
