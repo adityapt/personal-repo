@@ -6,12 +6,18 @@ permalink: /about/
 
 ## Bio
 
-I am a Principal Data Scientist at Zillow with over 11 years of experience in marketing data science. I hold a Master's degree in Business Analytics and conduct independent research in causal inference, marketing mix modeling, and data-driven decision-making. My work spans applied analytics, open-source contributions, and active participation in the scholarly community, including peer review and editorial responsibilities.
+Aditya Puttaparthi Tirumala is a Principal Data Scientist at Zillow, where he provides technical and strategic leadership for marketing measurement and decision science. His work focuses on building and scaling enterprise capabilities across marketing mix modeling, causal inference, experimentation, optimization, and applied AI, helping translate complex analytical methods into investment decisions for marketing and business leaders.
+
+He has led the development and operationalization of measurement systems that enable teams to evaluate marketing effectiveness, optimize investments, and make decisions with greater confidence. His work spans not only methodological development, but also the organizational challenges of establishing trustworthy analytics, influencing cross-functional decision-making, and moving analytical capabilities from individual models into scalable production systems.
+
+Aditya's broader interests center on building decision intelligence systems that combine statistical rigor, AI, automation, and human judgment, and on defining how data science can operate as a strategic decision-making function within organizations.
+
+He holds a Master's degree in Business Analytics and conducts independent research in causal inference, marketing mix modeling, and data-driven decision-making. His work spans applied analytics, open-source contributions, and active participation in the scholarly community, including peer review and editorial responsibilities.
 
 ## Zillow and IQVIA
 
-- **Zillow Group**, Principal Data Scientist, Marketing Data Science (2021 to present). Building scalable measurement and decision systems used to evaluate marketing effectiveness and support investment decisions, across marketing mix modeling, experimentation, causal inference, optimization, and AI-enabled measurement.
-- **IQVIA**, Manager, Brand & Marketing CoE (2016 to 2021).
+- **Zillow Group**, Principal Data Scientist, Marketing Data Science (2021 to present)
+- **IQVIA**, Manager, Brand & Marketing CoE (2016 to 2021)
 
 ## Education
 

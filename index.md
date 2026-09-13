@@ -3,7 +3,7 @@ layout: home
 title: Aditya Puttaparthi Tirumala
 ---
 
-Product & Marketing Data Science: causal measurement, experimentation, optimization, and AI-enabled decision systems, with [DeepCausalMMM](/deepcausalmmm/) as the flagship research and open-source contribution.
+Principal Data Scientist providing technical and strategic leadership for marketing measurement and decision science, building and scaling enterprise capabilities across marketing mix modeling, causal inference, experimentation, optimization, and applied AI, with [DeepCausalMMM](/deepcausalmmm/) as the flagship research and open-source contribution.
 
 ## Selected work
 
