@@ -9,7 +9,7 @@ permalink: /open-source/
 Advanced Marketing Mix Modeling with Causal Inference and Deep Learning.
 
 **What problem does it solve?**
-DAG-based causal discovery combined with GRU-based temporal modeling for Marketing Mix Modeling — recovering channel relationships and time-varying effects that standard MMM approaches miss.
+DAG-based causal discovery combined with GRU-based temporal modeling for Marketing Mix Modeling, recovering channel relationships and time-varying effects that standard MMM approaches miss.
 
 **How is it different?**
 Config-driven architecture, data-driven DAG learning (NOTEARS or upper-triangular mask), learnable coefficient bounds, robust statistical methods (Huber loss), and DMA-level economic contribution analysis.
