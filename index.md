@@ -3,17 +3,39 @@ layout: home
 title: Aditya Puttaparthi Tirumala
 ---
 
-I am a Principal Data Scientist at Zillow with over 11 years of experience in marketing data science. I hold a Master's degree in Business Analytics and conduct independent research in causal inference, marketing mix modeling, and data-driven decision-making. My work spans applied analytics, open-source contributions, and active participation in the scholarly community, including peer review and editorial responsibilities.
+Product & Marketing Data Science: causal measurement, experimentation, optimization, and AI-enabled decision systems, with [DeepCausalMMM](/deepcausalmmm/) as the flagship research and open-source contribution.
 
-## Research areas
+## Selected work
 
-- **Causal Measurement & Experimentation**: Marketing Mix Modeling, incrementality, experimentation
-- **AI & Decision Systems**: LLM-assisted analytics, agentic AI for measurement, decision delegation
-- **Predictive Data Science**: synthetic data, rare-event prediction
+<ul class="work-list">
+  <li>
+    <a href="/deepcausalmmm/">DeepCausalMMM</a>
+    <span class="tag">JOSS, Open Source, 2026</span>
+  </li>
+  <li>
+    <a href="/publications/#working-papers">The AI Delegation Blind Spot</a>
+    <span class="tag">Working Paper, AI & Decision Systems</span>
+  </li>
+  <li>
+    <a href="/talks-service/#conference-presentations">INFORMS Annual Meeting</a>
+    <span class="tag">Conference Presentation, 2026</span>
+  </li>
+  <li>
+    <a href="/talks-service/#conference-presentations">INFORMS Regional Analytics Conference</a>
+    <span class="tag">Conference Presentation, 2026</span>
+  </li>
+  <li>
+    <a href="/talks-service/#conference-presentations">Data Science Salon SF</a>
+    <span class="tag">Conference Presentation, 2025</span>
+  </li>
+  <li>
+    <a href="/talks-service/#program-and-committee-service">INFORMS Workshop on Data Science</a>
+    <span class="tag">Program Committee, 2026</span>
+  </li>
+</ul>
 
-## Background
-
-- **Zillow Group**: Principal Data Scientist, Marketing Data Science (2021 to present)
-- **IQVIA**: Manager, Brand & Marketing CoE (2016 to 2021)
-- **Arizona State University, W.P. Carey School of Business**: Master's in Business Analytics
-- **Amrita Vishwa Vidyapeetham**: B.Tech, Mechanical Engineering
+<p class="more-links">
+  <a href="/research/">View all research</a>
+  <a href="/publications/">View all publications</a>
+  <a href="/talks-service/">View all talks &amp; service</a>
+</p>

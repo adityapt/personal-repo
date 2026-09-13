@@ -5,18 +5,13 @@ permalink: /research/
 ---
 
 ## Causal Measurement & Experimentation
-Marketing Mix Modeling, incrementality, experimentation. See [DeepCausalMMM](/open-source/).
+Marketing Mix Modeling, incrementality, experimentation. See [DeepCausalMMM](/deepcausalmmm/).
+
+## Marketing Measurement & Optimization
+Attribution, budget allocation, response curves, decision support for marketing investment.
 
 ## AI & Decision Systems
-LLM-assisted analytics, agentic AI for measurement, decision delegation in marketing measurement.
+LLM-assisted analytics, agentic AI for measurement, decision delegation in marketing measurement. See "The AI Delegation Blind Spot" under [Working Papers](/publications/#working-papers).
 
-## Predictive Data Science
+## Predictive Product & Marketing Data Science
 Synthetic data evaluation, rare-event prediction.
-
-<!-- TODO: link each area to its specific paper(s) once published/submitted:
-     - JMA paper (LLMs/Agentic AI in Marketing Data Science): drafted, not yet submitted
-     - AMA paper (LLM-as-MMM-interface reliability eval)
-     - SimGeo (Winter AMA proceedings)
-     - IMAMAN LLM+Geo paper
-     Do not list a paper as "published" until it actually is; check submission status before publishing this page.
--->

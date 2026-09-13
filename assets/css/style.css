@@ -194,6 +194,48 @@ main {
 
 .page li { margin-bottom: 0.5rem; }
 
+.work-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1.75rem;
+  max-width: 38rem;
+}
+
+.work-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.work-list li:first-child { padding-top: 0; }
+
+.work-list a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.work-list a:hover { text-decoration: underline; }
+
+.work-list .tag {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.more-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+}
+
+.more-links a {
+  font-size: 0.95rem;
+}
+
 .page pre {
   background: #E4E6E0;
   border: 1px solid var(--line);
