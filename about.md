@@ -24,6 +24,10 @@ He holds a Master's degree in Business Analytics and conducts independent resear
 - **Arizona State University, W.P. Carey School of Business**: Master's in Business Analytics
 - **Amrita Vishwa Vidyapeetham**: B.Tech, Mechanical Engineering
 
+## Awards
+
+- **First Prize, Poster Competition**, PMSA (Pharmaceutical Management Science Association) Annual Conference, 2019, for "An All-Encompassing Machine-Learning Attribution Model to Plan, Predict and Measure Impact at the Channel and HCP Level." See [Publications](/publications/#conference-research).
+
 ## Research interests
 
 See [Research](/research/) for the full breakdown: causal measurement and experimentation, marketing measurement and optimization, AI and decision systems, and predictive brand, product, and marketing data science.

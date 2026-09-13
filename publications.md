@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Conference Research
 
-- Puttaparthi Tirumala, A. (2019). *An All-Encompassing Machine-Learning Attribution Model to Plan, Predict and Measure Impact at the Channel and HCP Level.* PMSA (Pharmaceutical Management Science Association) Annual Conference. Conference poster. [10.5281/zenodo.17409372](https://doi.org/10.5281/zenodo.17409372)
+- Puttaparthi Tirumala, A. (2019). *An All-Encompassing Machine-Learning Attribution Model to Plan, Predict and Measure Impact at the Channel and HCP Level.* PMSA (Pharmaceutical Management Science Association) Annual Conference. Conference poster, First Prize. [10.5281/zenodo.17409372](https://doi.org/10.5281/zenodo.17409372)
 
 ## Working Papers
 
