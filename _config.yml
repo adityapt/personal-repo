@@ -13,8 +13,6 @@ nav:
     url: /talks-service/
   - title: About
     url: /about/
-  - title: CV
-    url: /cv/
 
 plugins:
   - jekyll-seo-tag
