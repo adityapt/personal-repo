@@ -1,0 +1,235 @@
+/* Tokens */
+:root {
+  --paper: #EEF0EE;
+  --ink: #16233B;
+  --ink-soft: #3A4658;
+  --brass: #9C6F2C;
+  --teal: #3E6E6B;
+  --line: #C9CCC4;
+  --hero-dark: #101826;
+  --hero-paper: #F3EFE6;
+  --measure: 42rem;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--ink);
+}
+
+a {
+  color: var(--brass);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover { color: var(--teal); }
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 3px;
+}
+
+/* Header / nav */
+.site-header {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 1.75rem 1.5rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.site-header .wordmark {
+  font-family: "Source Serif 4", serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.site-header nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.site-header nav a {
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+
+.site-header nav a:hover,
+.site-header nav a[aria-current="page"] {
+  color: var(--brass);
+}
+
+/* Hero (home page only) */
+.hero {
+  background: var(--hero-dark);
+  color: var(--hero-paper);
+  padding: 3.5rem 1.5rem 2.5rem;
+  text-align: left;
+}
+
+.hero > * {
+  max-width: 56rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero h1 {
+  color: var(--hero-paper);
+  font-size: clamp(1.9rem, 4vw, 2.75rem);
+  margin: 0 0 0.4rem;
+}
+
+.hero .role {
+  color: #C7CBD6;
+  font-size: 1.05rem;
+  margin: 0 0 2.25rem;
+}
+
+.dag {
+  display: block;
+  width: 100%;
+  max-width: 42rem;
+  height: auto;
+}
+
+.dag-node {
+  fill: var(--hero-dark);
+  stroke: #B8863B;
+  stroke-width: 2;
+}
+
+.dag-edge {
+  stroke: #B8863B;
+  stroke-width: 1.5;
+  stroke-dasharray: 260;
+  stroke-dashoffset: 260;
+  animation: draw-edge 1.1s ease-out forwards;
+}
+
+.dag-edge:nth-of-type(2) { animation-delay: 0.35s; }
+
+.dag-label {
+  fill: #D8DCE4;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 13px;
+}
+
+@keyframes draw-edge {
+  to { stroke-dashoffset: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dag-edge {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Page content */
+main {
+  padding-bottom: 3rem;
+}
+
+.page {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 1rem;
+}
+
+.hero + .page {
+  padding-top: 2.25rem;
+}
+
+.page h1 {
+  font-size: 1.9rem;
+  margin: 0 0 1.25rem;
+}
+
+.page h2 {
+  font-size: 1.25rem;
+  margin: 2rem 0 0.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.page h2:first-of-type {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+.page p, .page li {
+  max-width: 38rem;
+}
+
+.page ul {
+  padding-left: 1.15rem;
+}
+
+.page li { margin-bottom: 0.5rem; }
+
+.page pre {
+  background: #E4E6E0;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.page code {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.85em;
+}
+
+/* Footer */
+.site-footer {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border-top: 1px solid var(--line);
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.site-footer a {
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+
+.site-footer a:hover { color: var(--brass); }
+
+@media (max-width: 32rem) {
+  .site-header { padding: 1.25rem 1.25rem 0.85rem; }
+  .hero { padding: 2.5rem 1.25rem 2rem; }
+  .page { padding: 2rem 1.25rem 1rem; }
+}

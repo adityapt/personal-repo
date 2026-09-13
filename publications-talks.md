@@ -17,7 +17,7 @@ permalink: /publications-talks/
 ## Talks
 
 - **INFORMS Annual Meeting** — November 6, 2026
-- **INFORMS Regional Conference, San Francisco** — <!-- TODO: date and talk title/topic not yet provided -->
+- **Convergence 2026: AI & Decision Intelligence Summit** (INFORMS Regional Analytics Conference, San Francisco Bay Area) — October 2, 2026, San José State University — Lightning Talk <!-- TODO: specific talk title/abstract not listed on conference site yet; add once announced -->
 - **Data Science Salon SF** — November 6, 2025 — "GenAI + MLOps for Advanced Marketing Measurement"
 
 ## Peer Review

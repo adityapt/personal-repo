@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Source — DeepCausalMMM
+title: Open Source
 permalink: /open-source/
 ---
 
