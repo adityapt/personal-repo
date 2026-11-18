@@ -13,6 +13,7 @@ permalink: /publications/
 
 - Puttaparthi Tirumala, A. (2019). *An All-Encompassing Machine-Learning Attribution Model to Plan, Predict and Measure Impact at the Channel and HCP Level.* PMSA (Pharmaceutical Management Science Association) Annual Conference. Conference poster, First Prize. [10.5281/zenodo.17409372](https://doi.org/10.5281/zenodo.17409372)
 - Puttaparthi Tirumala, A. (2027). *Can Large Language Models Serve as Reliable Interfaces to Marketing Mix Models? Evidence From a 500-Query Evaluation on a Public MMM Dataset.* [2027 AMA Winter Academic Conference](https://www.ama.org/events/academic/2027-ama-winter-academic-conference/). Competitive paper, **accepted**.
+  
 ## Working Papers
 
 - **The AI Delegation Blind Spot: Perceived Objectivity, Counterfactual Observability, and Persistent Error in Marketing Decisions.** Working paper.
