@@ -26,9 +26,13 @@ permalink: /talks-service/
 
 - **AI Jury Member**: World Series Awards (2027). [Jury profile](https://www.worldseriesawards.com/jury/aditya-puttaparthi-tirumala-daab11)
 - **Judge**: [Edison Awards](https://edisonawards.com/)
+- **Application Reviewer**: [MIT $100K Pitch Competition](https://sloangroups.mit.edu/w/bWl0c2xvYW46SHViOjIzNzk1/_/events/bWl0c2xvYW46RXZlbnQ6MTkzNjQzNQ==)
 - **Judge**: AI Solution Makers Hackathon (September 28-30, 2026); evaluated five submissions. [Judges](https://aisolutionmakers.com/#/judges)
 
 ## Peer Review
+
+- **Reviewer**: ACM Conference on Fairness, Accountability, and Transparency (FAccT 2027). [Conference information](https://facctconference.org/2027/cfp.html)
+- **Reviewer**: SAFE 2027 — Synthetic & Adversarial ForEnsics Workshop at AAAI 2027. [Workshop information](https://www.safeworkshop.org/aaai-2027/)
 
 Reviewer for: JMIR, JMIR AI, Big Data Research, Journal of Open Source Software, pyOpenSci, INFORMS Workshop on Data Science, Advances in Artificial Intelligence and Machine Learning.
 
