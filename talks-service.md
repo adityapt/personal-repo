@@ -31,10 +31,7 @@ permalink: /talks-service/
 
 ## Peer Review
 
-- **Reviewer**: ACM Conference on Fairness, Accountability, and Transparency (FAccT 2027). [Conference information](https://facctconference.org/2027/cfp.html)
-- **Reviewer**: SAFE 2027 — Synthetic & Adversarial ForEnsics Workshop at AAAI 2027. [Workshop information](https://www.safeworkshop.org/aaai-2027/)
-
-Reviewer for: JMIR, JMIR AI, Big Data Research, Journal of Open Source Software, pyOpenSci, INFORMS Workshop on Data Science, Advances in Artificial Intelligence and Machine Learning.
+Reviewer for: ACM Conference on Fairness, Accountability, and Transparency (FAccT 2027); SAFE 2027 — Synthetic & Adversarial ForEnsics Workshop at AAAI 2027; JMIR; JMIR AI; Big Data Research; Journal of Open Source Software; pyOpenSci; INFORMS Workshop on Data Science; and Advances in Artificial Intelligence and Machine Learning.
 
 [View verified peer-review activity on ORCID](https://orcid.org/0009-0008-9495-3932)
 
