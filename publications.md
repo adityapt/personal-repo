@@ -20,9 +20,11 @@ permalink: /publications/
 
 <!-- TODO: add once actually submitted/published, not before:
      - Synthetic Data Augmentation / Rare-Outcome Classification: hold until the journal redesign is complete
-     - AMA LLM x MMM paper: do not list while anonymous review is pending
 -->
 
 ## Software
 
-- [DeepCausalMMM](/deepcausalmmm/): a Deep Learning framework for Marketing Mix Modeling with causal structure learning.
+- [DeepCausalMMM](/deepcausalmmm/): a deep-learning framework for Marketing Mix Modeling with causal structure learning.
+- [CausalGeo](/causalgeo/): Python software for concurrent geo holdouts, bundle lift, and calibrated channel responses. [Code](https://github.com/adityapt/causalgeo), [software record](https://doi.org/10.5281/zenodo.24041239). Manuscript submitted to *SoftwareX*.
+
+See [Open Source](/open-source/) for project details and resources.

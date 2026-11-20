@@ -14,11 +14,6 @@ Aditya's broader interests center on building decision intelligence systems that
 
 He holds a Master's degree in Business Analytics and conducts independent research in causal inference, marketing mix modeling, and data-driven decision-making. His work spans applied analytics, open-source contributions, and active participation in the scholarly community, including peer review and editorial responsibilities.
 
-## Zillow and IQVIA
-
-- **Zillow Group**, Principal Data Scientist, Marketing Data Science (2021 to present)
-- **IQVIA**, Manager, Brand & Marketing CoE (2016 to 2021)
-
 ## Education
 
 - **Arizona State University, W.P. Carey School of Business**: Master's in Business Analytics
