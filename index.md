@@ -21,16 +21,12 @@ Aditya leads marketing measurement and decision science at Zillow, setting the t
     <span class="tag">Invited Talk, 2026</span>
   </li>
   <li>
-    <a href="/talks-service/#conference-presentations">INFORMS Regional Analytics Conference</a>
+    <a href="/talks-service/#selected-presentations">INFORMS Regional Analytics Conference</a>
     <span class="tag">Conference Presentation, 2026</span>
   </li>
   <li>
-    <a href="/talks-service/#conference-presentations">Data Science Salon SF</a>
+    <a href="/talks-service/#selected-presentations">Data Science Salon SF</a>
     <span class="tag">Conference Presentation, 2025</span>
-  </li>
-  <li>
-    <a href="/talks-service/#program-and-committee-service">INFORMS Workshop on Data Science</a>
-    <span class="tag">Program Committee, 2026</span>
   </li>
 </ul>
 
