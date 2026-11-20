@@ -17,6 +17,7 @@ permalink: /publications/
 ## Working Papers
 
 - **The AI Delegation Blind Spot: Perceived Objectivity, Counterfactual Observability, and Persistent Error in Marketing Decisions.** Working paper.
+- **A Marketing Analytics Audit of How Storefront Cues Move AI Shopping Agents.** Working paper.
 
 <!-- TODO: add once actually submitted/published, not before:
      - Synthetic Data Augmentation / Rare-Outcome Classification: hold until the journal redesign is complete
