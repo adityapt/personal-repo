@@ -18,15 +18,15 @@ permalink: /publications/
 
 - **The AI Delegation Blind Spot: Perceived Objectivity, Counterfactual Observability, and Persistent Error in Marketing Decisions.** Working paper.
 - **A Marketing Analytics Audit of How Storefront Cues Move AI Shopping Agents.** Working paper.
-- **Synthetic Data Augmentation in the Extreme Imbalance Regime: A Dose-Response Study and a Missing-Baseline Reassessment.** Working paper.
+- **When Does Synthetic Data Augmentation Help? Evidence from Marketing and Product Datasets.** Working paper.
 
 <!-- TODO: add once actually submitted/published, not before:
      - Synthetic Data Augmentation / Rare-Outcome Classification: hold until the journal redesign is complete
 -->
 
-## Software
+## Software (Package and Paper)
 
 - [DeepCausalMMM](/deepcausalmmm/): a deep-learning framework for Marketing Mix Modeling with causal structure learning.
-- [CausalGeo](/causalgeo/): Python software for concurrent geo holdouts, bundle lift, and calibrated channel responses. [Code](https://github.com/adityapt/causalgeo), [software record](https://doi.org/10.5281/zenodo.24041239). Manuscript submitted to *SoftwareX*.
+- [CausalGeo](/causalgeo/): Python software for concurrent geo holdouts, bundle lift, and calibrated channel responses. [Code](https://github.com/adityapt/causalgeo), [software record](https://doi.org/10.5281/zenodo.24041239). Manuscript submitted to *SoftwareX* and is in Review.
 
 See [Open Source](/open-source/) for project details and resources.
