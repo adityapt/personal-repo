@@ -4,6 +4,10 @@ title: Talks & Service
 permalink: /talks-service/
 ---
 
+## Upcoming Presentations
+
+- **2027 AMA Winter Academic Conference**: February 2027. Accepted Competitive Paper Presentation - “Can Large Language Models Serve as Reliable Interfaces to Marketing Mix Models? Evidence From a 500-Query Evaluation on a Public MMM Dataset.” Competitive paper presentation. [Conference information](https://www.ama.org/events/academic/2027-ama-winter-academic-conference/)
+
 ## Selected Presentations
 
 - **INFORMS Convergence 2026: AI & Decision Intelligence Summit** (INFORMS Regional Analytics Conference, San Francisco Bay Area): October 2, 2026, San José State University. "Building Trustworthy Marketing Mix Models: AI-Assisted Operations for Enterprise Decision Intelligence." [Presentation record](https://zenodo.org/doi/10.5281/zenodo.23145848), [conference speaker listing](https://sanfrancisco2026.informs.org/speakers/), [announcement post](https://www.linkedin.com/posts/anitabowers_informs-operationsresearch-ai-share-7500242281292193792-pxPM/), [schedule](https://sanfrancisco2026.informs.org/agenda/)
