@@ -12,7 +12,7 @@ permalink: /talks-service/
 
 ## Invited Talks
 
-- **INFORMS Annual Meeting**: November 1, 2026. "Deploying ML-Driven Decision Systems: Practical Budget Optimization with MMM, Constraints, and Experimentation in the Industry." [Presentation record](https://doi.org/10.5281/zenodo.24024141)
+- **INFORMS Annual Meeting**: November 1, 2026. "Deploying ML-Driven Decision Systems: Practical Budget Optimization with MMM, Constraints, and Experimentation in the Industry." [Presentation record](https://doi.org/10.5281/zenodo.24024141), [Session Chair Post](https://lnkd.in/p/gytbxBNp)
 - **Drexel Data Science Club: Industry Series Speaker Session**: February 20, 2026. [Event details](https://drexel.edu/graduatecollege/news-events/events/details/?eid=46131&iid=121133)
 
 ## Program and Committee Service
