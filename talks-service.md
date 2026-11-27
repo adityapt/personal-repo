@@ -39,12 +39,21 @@ Reviewer for: ACM Conference on Fairness, Accountability, and Transparency (FAcc
 
 [View verified peer-review activity on ORCID](https://orcid.org/0009-0008-9495-3932)
 
-## Writing
-
-- ["Using AI to Generate Insights and Actionable Next Steps from MMM Data"](https://www.021newsletter.com/p/using-ai-to-generate-mmm-insights-co-pilot), 021 Newsletter, January 27, 2026
-
 ## Media & Mentions
 
 - **X-Team Magazine** — [Stop Policing, Start Evaluating: Inside the Modern AI Coding Interview](https://x-team.com/magazine/ai-coding-interview)  
   By Lance Haun · November 10, 2026  
   Featured expert commentary on evaluating AI-assisted coding skills, including how candidates identify errors and validate fixes in AI-generated SQL and Python.
+
+### Mentions of DeepCausalMMM
+
+- **Khayyam H., Medium** — [Media Mix Modeling: Attributing Growth When Every Channel Overlaps](https://medium.com/@khayyam.h/media-mix-modeling-attributing-growth-when-every-channel-overlaps-c3308620a03f)  
+  Discusses DeepCausalMMM alongside Robyn and Meridian, including trade-offs in temporal modeling, explainability, and deployment.
+
+- **Arthur Mello, Medium** — [How I Look for Research Gaps](https://medium.com/@arthurmello_/how-i-look-for-research-gaps-45a5474ac2d6)  
+  Includes DeepCausalMMM in an AI-assisted review of marketing mix modeling research, discussing its methodology and open questions around causal validation.
+  
+## Writing
+
+- ["Using AI to Generate Insights and Actionable Next Steps from MMM Data"](https://www.021newsletter.com/p/using-ai-to-generate-mmm-insights-co-pilot), 021 Newsletter, January 27, 2026.
+
