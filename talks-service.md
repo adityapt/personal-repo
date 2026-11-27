@@ -42,3 +42,9 @@ Reviewer for: ACM Conference on Fairness, Accountability, and Transparency (FAcc
 ## Writing
 
 - ["Using AI to Generate Insights and Actionable Next Steps from MMM Data"](https://www.021newsletter.com/p/using-ai-to-generate-mmm-insights-co-pilot), 021 Newsletter, January 27, 2026
+
+## Media & Mentions
+
+- **X-Team Magazine** — [Stop Policing, Start Evaluating: Inside the Modern AI Coding Interview](https://x-team.com/magazine/ai-coding-interview)  
+  By Lance Haun · November 10, 2026  
+  Featured expert commentary on evaluating AI-assisted coding skills, including how candidates identify errors and validate fixes in AI-generated SQL and Python.
